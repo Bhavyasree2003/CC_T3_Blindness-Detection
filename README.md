@@ -33,28 +33,19 @@ The `eye_detection.py` script utilizes a pre-trained Haar cascade classifier for
    Make sure you have OpenCV installed in your environment.
 
    Usage
-Place the image you want to analyze in the project directory and name it eye_image.jpg.
+   ********
+   1.Place the image you want to analyze in the project directory and name it eye_image.jpg.
 
-Run the eye detection script:
+   2.Run the eye detection script:
 
-````bash
-Copy code
-python eye_detection.py
- 
- This will execute the script and detect eyes in the eye_image.jpg file.
+   ```Bash
+     python eye_detection.py
 
-
+     This will execute the script and detect eyes in the eye_image.jpg file.
 
 Contributing
-************
+*************
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. 
 
 
-
-
-
-
-
-
-
-
+  
