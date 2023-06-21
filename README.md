@@ -27,7 +27,7 @@ The `eye_detection.py` script utilizes a pre-trained Haar cascade classifier for
    
   2. Install the required dependencies:
 
-    ```` basH
+    ```` bash
    pip install opencv-python
    
    Make sure you have OpenCV installed in your environment.
